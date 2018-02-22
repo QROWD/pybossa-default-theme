@@ -2241,7 +2241,17 @@ msgstr ""
 msgid "Provide a public link to your own CSV file"
 msgstr ""
 
+#: themes/default/templates/projects/tasks/sparql.html:3
+msgid "Provide a public link to your own CSV file"
+msgstr ""
+
 #: themes/default/templates/projects/tasks/csv.html:5
+msgid ""
+"Use the CSV URL\n"
+"      importer"
+msgstr ""
+
+#: themes/default/templates/projects/tasks/sparql.html:5
 msgid ""
 "Use the CSV URL\n"
 "      importer"
